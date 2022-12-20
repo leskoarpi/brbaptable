@@ -1,6 +1,6 @@
 body{
 
-    background-image: url('/assets/wallp.jpg');
+    background-image: url('./wallp.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
