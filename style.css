@@ -1,13 +1,21 @@
 body{
 
-    background-image: url('https://r4.wallpaperflare.com/wallpaper/967/214/479/minimalistic-breaking-bad-meth-walter-white-heisenberg-1920x1080-abstract-breaking-bad-hd-art-wallpaper-e9c0682d510aaddb964718af70b1967d.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+   body {
+
+    background:linear-gradient(135deg, rgb(9, 37, 1),rgb(22, 101, 0), rgb(40, 88, 30));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html{
+
+    background:linear-gradient(125deg, rgb(9, 37, 1),rgb(22, 101, 0), rgb(40, 88, 30));
+    
 }
 
 
 #dataContainer {
+display: grid;
+background-color: rgba(255, 255, 255, 0);
 display: grid;
 
 grid-template-columns: repeat(18, 1fr);
