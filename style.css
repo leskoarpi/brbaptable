@@ -1,6 +1,4 @@
-body{
-
-   body {
+body {
 
     background:linear-gradient(135deg, rgb(9, 37, 1),rgb(22, 101, 0), rgb(40, 88, 30));
     background-repeat: no-repeat;
@@ -220,6 +218,7 @@ width: 90vw;
     border:1px solid rgba(255, 255, 255, 0.18);
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     border: 1px solid;
+    border-color; rgba(0,0,0,0)
     border-radius: 10px;
     position:absolute;
     top: 50%;
